@@ -1,2 +1,2 @@
-# donation
+# Donation
 Payment Gateway Integration
